@@ -75,7 +75,7 @@ img, p {
         flex-direction: column;
         gap: 40px;
       }
-      /* OBS: para acahar o valor de REM é só dividir o valor de pixels por 16, ou seja 16px é = 1rem */
+      /* OBS: para achar o valor de REM é só dividir o valor de pixels por 16, ou seja 16px é = 1rem */
       .apresentacao__titulo {
         font-size: 2.25rem;
         font-family:'Titillium Web', sans-serif;
